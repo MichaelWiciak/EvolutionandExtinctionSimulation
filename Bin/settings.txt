@@ -1,0 +1,14 @@
+self.__sig = 2 
+self.__howMuchTrainingDataShouldThereBe = 10000 
+self.__batchSize = 5 
+self.__returnDefaultParameterValue = 2 
+self.__returnParameterValueOfDefaultNeanthedral = 3 
+self.__returnSneakingValueForNeanthedral = 8 
+self.__returnInitialNumberOfNeanthedrals = 100 
+self.__returnLimitOfSystem = 200 
+self.__returnInitialNumberOfHumans = 100 
+self.__returnStartingYearAsInt = 500000 
+self.__returnYearlyValueOfAGeneration = 500 
+self.__returnNumberOfTimesEvolutionHappens = 3 
+self.__returnHowManyHumansGetTheSameAdaptationAtOnce = 2 
+self.__returnifPopBelowEndExtinction = 10 
